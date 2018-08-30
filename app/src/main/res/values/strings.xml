@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="song_title">Storm is over - R. Kelly</string>
+    <string name="search_music">This Activity is where you can search for any music you want to listen to</string>
+    <string name="song_list">This Activity shows the list of songs and artists we have, it utilizes a custom
+        class and custom adapter</string>
+    <string name="now_playing">This Activity shows the current playing song</string>
+    <string name="playlist">This Activity is the first screen of the app, use the icons in the action bar to navigate
+    It contains a playlist of the music. This is aided by a custom adapter and a custom class</string>
+    <string name="play_time">3:03</string>
+</resources>
